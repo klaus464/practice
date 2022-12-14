@@ -25,3 +25,7 @@ contains practice problems' solution(s)
 6.
     - [A - CamelCase](https://vjudge.net/problem/HackerRank-camelcase)
         - _[C++](.cpp/006-A.cpp)_
+
+7.
+    - [A - Match’s model](https://vjudge.net/problem/EOlymp-3)
+        - _[C++](.cpp/007-A.cpp)_
