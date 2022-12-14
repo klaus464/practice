@@ -37,3 +37,7 @@ contains practice problems' solution(s)
 9.
     - [A - Pangrams](https://vjudge.net/problem/HackerRank-pangrams)
         - _[C++](.cpp/009-A.cpp)_
+
+10.
+    - [A - Separate the Numbers](https://vjudge.net/problem/HackerRank-separate-the-numbers)
+        - _[C++](.cpp/010-A.cpp)_
