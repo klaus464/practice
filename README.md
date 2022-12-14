@@ -53,3 +53,7 @@ contains practice problems' solution(s)
 13.
     - [A - Minimum LCM](https://vjudge.net/problem/CodeForces-1765M)
         - _[C++](.cpp/013-A.cpp)_
+
+14.
+    - [A - "Mirror prime" numbers](https://vjudge.net/problem/EOlymp-22)
+        - _[C++](.cpp/014-A.cpp)_
