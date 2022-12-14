@@ -45,3 +45,7 @@ contains practice problems' solution(s)
 11.
     - [A - Atilla's Favorite Problem](https://vjudge.net/problem/CodeForces-1760B)
         - _[C++](.cpp/011-A.cpp)_
+
+12.
+    - [A - Diverse Substrings](https://vjudge.net/problem/CodeForces-1748B)
+        - _[C++](.cpp/012-A.cpp)_
