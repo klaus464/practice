@@ -29,3 +29,7 @@ contains practice problems' solution(s)
 7.
     - [A - Match’s model](https://vjudge.net/problem/EOlymp-3)
         - _[C++](.cpp/007-A.cpp)_
+
+8.
+    - [A - Cats and a Mouse](https://vjudge.net/problem/HackerRank-cats-and-a-mouse)
+        - _[C++](.cpp/008-A.cpp)_
