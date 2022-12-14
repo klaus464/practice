@@ -21,3 +21,7 @@ contains practice problems' solution(s)
 5.
     - [A - Printing Pattern Using Loops](https://vjudge.net/problem/HackerRank-printing-pattern-2)
         - _[C++](.cpp/005-A.cpp)_
+
+6.
+    - [A - CamelCase](https://vjudge.net/problem/HackerRank-camelcase)
+        - _[C++](.cpp/006-A.cpp)_
