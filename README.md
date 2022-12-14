@@ -17,3 +17,7 @@ contains practice problems' solution(s)
 4.
     - [A - Fun with Sequences](https://vjudge.net/problem/SPOJ-SMPSEQ3)
         - _[C++](.cpp/004-A.cpp)_
+
+5.
+    - [A - Printing Pattern Using Loops](https://vjudge.net/problem/HackerRank-printing-pattern-2)
+        - _[C++](.cpp/005-A.cpp)_
