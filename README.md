@@ -13,3 +13,7 @@ contains practice problems' solution(s)
 3.
     - [A - Birthday Cake Candles](https://vjudge.net/problem/HackerRank-birthday-cake-candles)
         - _[C++](.cpp/003-A.cpp)_
+
+4.
+    - [A - Fun with Sequences](https://vjudge.net/problem/SPOJ-SMPSEQ3)
+        - _[C++](.cpp/004-A.cpp)_
