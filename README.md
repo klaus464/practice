@@ -41,3 +41,7 @@ contains practice problems' solution(s)
 10.
     - [A - Separate the Numbers](https://vjudge.net/problem/HackerRank-separate-the-numbers)
         - _[C++](.cpp/010-A.cpp)_
+
+11.
+    - [A - Atilla's Favorite Problem](https://vjudge.net/problem/CodeForces-1760B)
+        - _[C++](.cpp/011-A.cpp)_
