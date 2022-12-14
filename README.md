@@ -49,3 +49,7 @@ contains practice problems' solution(s)
 12.
     - [A - Diverse Substrings](https://vjudge.net/problem/CodeForces-1748B)
         - _[C++](.cpp/012-A.cpp)_
+
+13.
+    - [A - Minimum LCM](https://vjudge.net/problem/CodeForces-1765M)
+        - _[C++](.cpp/013-A.cpp)_
