@@ -33,3 +33,7 @@ contains practice problems' solution(s)
 8.
     - [A - Cats and a Mouse](https://vjudge.net/problem/HackerRank-cats-and-a-mouse)
         - _[C++](.cpp/008-A.cpp)_
+
+9.
+    - [A - Pangrams](https://vjudge.net/problem/HackerRank-pangrams)
+        - _[C++](.cpp/009-A.cpp)_
