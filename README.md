@@ -1,6 +1,7 @@
 # Practice
 
-contains practice problems' solution(s)
+contains practice problems' solution(s)  
+This repository will be later merged into [training](https://github.com/klaus464/training)
 
 1.
     - [A - Compare the Triplets](https://vjudge.net/problem/HackerRank-compare-the-triplets)
@@ -57,3 +58,7 @@ contains practice problems' solution(s)
 14.
     - [A - "Mirror prime" numbers](https://vjudge.net/problem/EOlymp-22)
         - _[C++](.cpp/014-A.cpp)_
+
+15.
+    - [A - Super Reduced String](https://vjudge.net/problem/HackerRank-reduced-string)
+        - _[C++](.cpp/015-A.cpp)_
