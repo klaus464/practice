@@ -1,7 +1,6 @@
 # Practice
 
 contains practice problems' solution(s)  
-This repository will be later merged into [training](https://github.com/klaus464/training)
 
 1.
     - [A - Compare the Triplets](https://vjudge.net/problem/HackerRank-compare-the-triplets)
@@ -62,3 +61,7 @@ This repository will be later merged into [training](https://github.com/klaus464
 15.
     - [A - Super Reduced String](https://vjudge.net/problem/HackerRank-reduced-string)
         - _[C++](.cpp/015-A.cpp)_
+
+16.
+    - [A - Alternating Characters](https://vjudge.net/contest/535323#problem/A)
+        - _[C++](.cpp/016-A.cpp)_
